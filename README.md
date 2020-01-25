@@ -1,4 +1,4 @@
-# NLP_projects
+# NLP projects
 
 ### 1) [Text Classification](https://github.com/dhananjayraut/NLP_projects/tree/master/Text%20Classification)
 
